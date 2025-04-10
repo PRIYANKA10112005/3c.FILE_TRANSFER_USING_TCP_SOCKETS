@@ -91,9 +91,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 ## OUPUT
 
-![image](https://github.com/user-attachments/assets/d5c23fe7-ec01-4ad0-ae8b-57f202cfcb71)
+![Screenshot 2025-04-10 110014](https://github.com/user-attachments/assets/3a96ff2e-7c19-43ab-9bc1-46d8acfbb09e)
 
-![image](https://github.com/user-attachments/assets/f413f5ab-5ca4-42b2-b8e8-299d6de1ad0e)
+![Screenshot 2025-04-10 110046](https://github.com/user-attachments/assets/71ff9368-3a45-4515-9f1a-a8a1ad4a07bf)
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
